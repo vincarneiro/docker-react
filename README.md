@@ -1,6 +1,6 @@
 # This is a follow along of the course "Docker and Kubernetes: The Complete Guide"
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
